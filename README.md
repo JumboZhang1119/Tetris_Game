@@ -56,4 +56,7 @@ For this project, I used C++ as the primary programming structure, combined with
 
   > Clearing multiple rows simultaneously earns varying points. If $n$ rows are cleared at once, the score is calculated as: $100\times n^2$
 # 3. Demo Vedio
-[Link to the vedio](https://www.youtube.com/watch?v=BvFeU7NTvdc&ab_channel=%E5%BC%B5%E6%9F%8F%E8%B1%90)
+[Link to the vedio](https://www.youtube.com/watch?v=BvFeU7NTvdc&ab_channel=%E5%BC%B5%E6%9F%8F%E8%B1%90)  
+
+<img width="684" alt="Tetris" src="https://github.com/user-attachments/assets/d83a547e-5161-4788-9e12-fa7f62e3a910">
+
